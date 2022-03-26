@@ -1,0 +1,15 @@
+var thorJasonAaron = [
+	["11/2012", "09/2014", "Thor: God of Thunder #1-25", "AARON", "green"],
+	["04/2014", "09/2014", "Original Sin #0-8", "AARON", "gray"],
+	["07/2014", "09/2014", "Original Sin #5.1-5.5 \"Thor & Loki: The Tenth Realm\"", "AARON & EWING", "green"],
+	["10/2014", "05/2015", "Thor #1-8, Annual #1", "AARON", "green"],
+	["06/2015", "11/2015", "Secret Wars: Thors #1-4", "AARON", "green"],
+	["11/2015", "04/2018", "Mighty Thor #1-23, #700-706", "AARON", "green"],
+	["11/2016", "03/2017", "Unworthy Thor #1-5", "AARON", "green"],
+	["08/2017", "", "Generations: The Unworthy Thor & The Mighty Thor", "AARON", "green"],
+	["05/2018", "", "Mighty Thor: At the Gates of Valhalla", "AARON", "green"],
+	["06/2018", "08/2019", "Thor #1-16", "AARON", "green"],
+	["04/2019", "06/2019", "War of the Realms #1-6", "AARON", "gray"],
+	["07/2019", "06/2020", "Valkyrie: Jane Foster #1-10", "AARON & EWING", "green"],
+	["09/2019", "12/2019", "King Thor #1-4", "AARON", "green"],
+];
