@@ -13,6 +13,7 @@
   <p>Thor</p>
   <ul>
     <li>Fase Walter Simonson</li>
+	<li><a href="#thor-renascimento">Fase Strazsky / Gillen / Fraction</a></li>
     <li><a href="#thor-jason-aaron">Fase Jason Aaron</a></li>
     <li>Fase Donny Cates</li>
   </ul>
@@ -25,6 +26,9 @@
     <li>Destiny of X</li>
   </ul>
 
+  <h1 id="thor-renascimento">Thor - Straczynski / Gillen / Fraction</h1>
+  <canvas id="thorStrGilFra"></canvas>
+
   <h1 id="thor-jason-aaron">Thor - Fase Jason Aaron</h1>
   <canvas id="thorJasonAaron"></canvas>
 
@@ -32,9 +36,9 @@
   <canvas id="xmenHickman"></canvas>
 
   <script>
+	gerarTimelineCanvas("thorStrGilFra", 2007, 2012, thorStrGilFra);
 	gerarTimelineCanvas("thorJasonAaron", 2012, 2022, thorJasonAaron);
-  gerarTimelineCanvas("xmenHickman", 2019, 2023, xmenHickman);
-
+	gerarTimelineCanvas("xmenHickman", 2019, 2023, xmenHickman);
   </script>
 </body>
 </html>
