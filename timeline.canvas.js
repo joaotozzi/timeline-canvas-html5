@@ -1,6 +1,6 @@
 var LARGURA_ANO = 120;//deve ser múltiplo de 12
-var BACKGROUND_COLOR = "black";
-var TEXT_COLOR = "white";
+var BACKGROUND_COLOR = "white";
+var TEXT_COLOR = "black";
 var TEXT_FONT = "12px Arial";
 
 
@@ -28,7 +28,7 @@ function criarDivisaoDeAnos(ctx, qtdAnos, anoInicial, alturaCanvas){
 	var px = 0;
 	
 	ctx.fillStyle = TEXT_COLOR;
-	ctx.strokeStyle = "rgba(255,255,255,0.05)";
+	ctx.strokeStyle = "rgba(0,0,0,0.04)";
 	
 	for(i = 0; i < qtdAnos; i++){
 		var px = px + LARGURA_ANO;
